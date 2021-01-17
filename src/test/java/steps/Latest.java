@@ -24,7 +24,7 @@ public class Latest implements En {
         });
         Then("^User should get the rocket, ships, capsules, payloads$", () -> {
             String body = response.getBody().asString();
-            assert body.contains("rocket") && body.contains("shits") && body.contains("capsules") && body.contains("payloads");
+            assert body.contains("rocket") && body.contains("ships") && body.contains("capsules") && body.contains("payloads");
         });
     }
 }
