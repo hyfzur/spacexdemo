@@ -1,4 +1,4 @@
-##Sample Test Cases of Blazedemo website
+##Sample Test Cases of SpaceX api
 
 ### Tools used
 * Openjdk 11.0.9
